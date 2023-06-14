@@ -1,0 +1,82 @@
+        //  Global arrays
+        string[] firstNames =
+        {
+            "Franklin",
+            "Harry",
+            "Dwight",
+            "John F.",
+            "Lyndon",
+            "Richard",
+            "Gerald",
+            "Jimmy",
+            "Ronald",
+            "George H.W.",
+            "Bill",
+            "George W.",
+            "Barack",
+            "Donald",
+            "Joe"
+        };
+
+        string[] lastNames = 
+        {
+            "Roosevelt",
+            "Truman",
+            "Eisenhower",
+            "Kennedy",
+            "Johnson",
+            "Nixon",
+            "Ford",
+            "Carter",
+            "Reagan",
+            "Bush",
+            "Clinton",
+            "Bush",
+            "Obama",
+            "Trump",
+            "Biden"
+        };
+
+        string[] party =
+        {
+            "Democrat",
+            "Democrat",
+            "Republican",
+            "Democrat",
+            "Democrat",
+            "Republican",
+            "Republican",
+            "Democrat",
+            "Republican",
+            "Republican",
+            "Democrat",
+            "Republican",
+            "Democrat",
+            "Republican",
+            "Democrat"
+        };
+
+		//	NOTE: 	You will have to change the path on all of
+		//			these image files to reflect your location
+		//			of said images!
+        string[] images =
+        {
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/32-franklinroosevelt.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/33-harrytruman.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/34-dwighteisenhower.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/35-johnkennedy.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/36-lyndonjohnson.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/37-richardnixon.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/38-geraldford.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/39-jimmycarter.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/40-ronaldreagan.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/41-georgehwbush.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/42-billclinton.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/43-georgewwbush.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/44-barackobama.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/45-donaldtrump.jpg",
+            "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/46-joebiden.jpg"
+        };
+
+		//	NOTE: 	Same with this image file.
+        string noImageAvailable = "C:/Users/jpscott/Desktop/Ch10-11Pretest/PretestCh10-11/Presidents/Images/00-nia.jpg";
